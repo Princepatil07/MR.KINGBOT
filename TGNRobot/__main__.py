@@ -73,8 +73,8 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """ ʜɪɪ [❤️](https://telegra.ph/file/890623fcce9d31de61322.jpg)
-╭──╼❀⊰ [ 𓄂I AM PROBOT࿐](https://t.me/PRO_VK_ROBOT)
+PM_START_TEXT = """ ʜɪɪ [❤️](https://telegra.ph/file/77813d0c08984a311aa7e.jpg)
+╭──╼❀⊰ [ 𓄂I AM MINE CRAFT ROBOT࿐](https://t.me/MINE_CRAFT_ROBOT)
 ┻━━━━━━━━━━━━━━━━━━⊰✿
 ❖ *ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ*.
 ❖ *ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ*! ʜɪᴛ /help .
@@ -82,17 +82,17 @@ PM_START_TEXT = """ ʜɪɪ [❤️](https://telegra.ph/file/890623fcce9d31de6132
 buttons = [
     [
         InlineKeyboardButton(
-            text="😁ꜱɪʀ ᴋɪᴅɴᴀᴘ ᴍᴇ ᴘʟᴇᴀꜱᴇ😅", url="t.me/PRO_VK_ROBOT?startgroup=true"),
+            text="😁ꜱɪʀ ᴋɪᴅɴᴀᴘ ᴍᴇ ᴘʟᴇᴀꜱᴇ😅", url="t.me/MINE_CRAFT_ROBOT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝖮𝖶𝖭𝖤𝖱😏", url=f"https://t.me/VIJAY_ABOUT"),
+        InlineKeyboardButton(text="𝖮𝖶𝖭𝖤𝖱🎀", url=f"https://t.me/Princepatil96k"),
         InlineKeyboardButton(
-            text="🅰️BOUT ME", url=f"https://t.me/VkTgBotz/5"),
+            text="POWERED BY 😎", url=f"https://t.me/KING_PRINCE_SUPPORT"),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/VkTgBotz"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/STUDY_FLOWER"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤗", url=f"https://t.me/VkTgBotSupport"),
+            text="ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ🤗", url=f"https://t.me/MR_Prince_music"),
     ],
     [
         InlineKeyboardButton(text="𝗛𝗘𝗟𝗣 𝗔𝗡𝗗 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ❔", callback_data="help_back"),
@@ -101,17 +101,17 @@ buttons = [
 
 
 HELP_STRINGS = """┏━━━━━━「 ✿✿✿ 」━━━━━━┓
-                             ʜɪɪ....[❤️](https://telegra.ph/file/6b7ed3399863032bda7bc.jpg)
+                             ʜɪɪ....[❤️](https://telegra.ph/file/77813d0c08984a311aa7e.jpg)
                   ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ
       ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ
                       ᴀ ʙᴜᴛᴛᴏɴ..
       ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ
-                   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/VkTgBotSupport)
+                   [🎀ᴘʀɪɴᴄᴇ ᴘᴀᴛɪʟ🎀](https://t.me/Princepatil96k)
 ┗━━━━━━「 ✿✿✿ 」━━━━━━━┛
 
-❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [@ᴠᴋᴛɢʙᴏᴛᴢ](https://t.me/VkTgBotz)"""
+❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [SUPPORT GROUP](https://t.me/MR_Prine_mudic)"""
 
-START_IMG = "https://telegra.ph/file/890623fcce9d31de61322.jpg"
+START_IMG = "https://telegra.ph/file/77813d0c08984a311aa7e.jpg"
 
 
 IMPORTED = {}
