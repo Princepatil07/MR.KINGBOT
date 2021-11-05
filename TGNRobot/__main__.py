@@ -87,7 +87,7 @@ buttons = [
     [
         InlineKeyboardButton(text="𝖮𝖶𝖭𝖤𝖱🎀", url=f"https://t.me/Princepatil96k"),
         InlineKeyboardButton(
-            text="POWERED BY 😎", url=f"https://t.me/KING_PRINCE_SUPPORT"),
+            text="ᴘᴏᴡᴇʀᴇᴅ ʙʏ😎", url=f"https://t.me/KING_PRINCE_SUPPORT"),
     ],
     [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ & ɴᴇᴡꜱ☑️", url=f"https://t.me/STUDY_FLOWER"),
@@ -109,7 +109,7 @@ HELP_STRINGS = """┏━━━━━━「 ✿✿✿ 」━━━━━━┓
                    [🎀ᴘʀɪɴᴄᴇ ᴘᴀᴛɪʟ🎀](https://t.me/Princepatil96k)
 ┗━━━━━━「 ✿✿✿ 」━━━━━━━┛
 
-❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [SUPPORT GROUP](https://t.me/MR_Prine_mudic)"""
+❤️ ᴀʟꜱᴏ ᴊᴏɪɴ » [@MR_Prince_music](https://t.me/MR_Prine_mudic)"""
 
 START_IMG = "https://telegra.ph/file/77813d0c08984a311aa7e.jpg"
 
